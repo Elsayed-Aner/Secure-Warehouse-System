@@ -14,8 +14,9 @@
 # Table of Contents
 
 - [About the Project](#about-the-project)
-  * [System API](Sytem-API)
-  * [Environment Variables](environment-variables)
+  * [System API](#system-api)
+  * [Features](#features)
+-  [Functions](#functions)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -32,11 +33,12 @@
 
 <!-- System API -->
 ### System API
-`client_add`
-`client_delet`
-`list_d`
-`clear_c`
-`logout`
+
+- `client_add`
+- `client_delet`
+- `list_d`
+- `clear_c`
+- `logout`
 
 <!-- Features -->
 ### Features
@@ -45,8 +47,8 @@
 - store data into encrypted files.
 - multiple command option.
 
-<!-- Usage -->
-## Usage
+<!-- Functions -->
+## Functions
 
 Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
 

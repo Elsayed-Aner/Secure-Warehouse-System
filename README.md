@@ -7,25 +7,15 @@
     An account (username & password) protect clients' data for the warehouse system, with different commands. 
   </p>
 
-  
-<!-- Badges -->
-<p>
-  
-</p>
-   
-<h4>
-
-  </h4>
 </div>
-
 <br />
 
 <!-- Table of Contents -->
 # Table of Contents
 
 - [About the Project](#about-the-project)
-  * [System API](#Sytem-API)
-  * [Environment Variables](#environment-variables)
+  * [System API](Sytem-API)
+  * [Environment Variables](environment-variables)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)

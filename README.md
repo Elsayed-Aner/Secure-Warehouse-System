@@ -5,11 +5,15 @@
   
   <p>
     An account (username & password) protect clients' data for the warehouse system, with different commands. 
-    user name: Elsayed
-    password: 1234
   </p>
-
+  
+<!-- System authentication -->
+### System Authentication
+`username: Elsayed`<br />
+`password: 1234`
+  
 </div>
+
 <br />
 
 <!-- Table of Contents -->

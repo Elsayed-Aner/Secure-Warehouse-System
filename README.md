@@ -5,6 +5,8 @@
   
   <p>
     An account (username & password) protect clients' data for the warehouse system, with different commands. 
+    user name: Elsayed
+    password: 1234
   </p>
 
 </div>

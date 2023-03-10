@@ -1,6 +1,0 @@
-First name: fsdf
-last name: fsdf
-Age: sfsgs
-Phone number: gs
-Item: sg
-Item quantity: gw
